@@ -1,0 +1,6 @@
+
+@media (max-width:1330) {
+    .header-menu ul li a {
+        padding: 10px 15px !important;
+    }
+}
